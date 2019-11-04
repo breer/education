@@ -16,6 +16,4 @@ Let's say one file for each:
 * perfect moodle
 + ...?
 
-+ Test-Branch 123
-
 Happy to receive your pull requests!
